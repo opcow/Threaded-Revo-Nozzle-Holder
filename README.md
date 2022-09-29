@@ -4,5 +4,8 @@
 
 I print the with the large hole on the build plate. Bottom down should also work. I do not know if the threads will print useably if the part is printed on its side.
 
+https://youtu.be/qoGbK18BHSA
+
 ---
-![image-1](https://youtu.be/qoGbK18BHSA)
+![image-1](https://raw.githubusercontent.com/opcow/Threaded-Revo-Nozzle-Holder/main/view-1.png)
+
